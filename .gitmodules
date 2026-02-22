@@ -1,0 +1,6 @@
+[submodule "libs/sub-core"]
+	path = libs/sub-core
+	url = https://github.com/ystgd07/test-sub-core.git
+[submodule "libs/sub-utils"]
+	path = libs/sub-utils
+	url = https://github.com/ystgd07/test-sub-utils.git
